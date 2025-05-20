@@ -1,3 +1,23 @@
+dataset/videos/
+dataset/audios/
+*.zip
+
+dataset/features/audios/
+dataset/features/open_face_raw/
+dataset/features/textual/
+dataset/features/VAD/
+
+features/audios/
+features/open_face_raw/
+features/textual/
+features/VAD/
+
+raw_data/audios/
+raw_data/videos/
+
+Spanish-NRC-VAD-Lexicon.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
