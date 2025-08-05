@@ -9,8 +9,8 @@ To gain access to the **LS-FUNNY** dataset, please follow the steps below:
 
 2. **Wait for approval**:
 
-   * After your request is received, you will be granted access to the dataset. You will receive a confirmation email with further instructions.
-
+   * After your request is received, you will be granted access to the dataset. 
+   
 3. **Access the dataset**:
 
    * Once your request has been approved, you can access the dataset by clicking on the following link:
