@@ -6,7 +6,7 @@ This repository contains the dataset for **LS-FUNNY**, a project focused on dete
 
 ## Citation
 
-If you use this dataset in your research, please cite the following paper:
+If you use this dataset in your research, please cite our paper:
 
 > Herrera-Alba, E., Manrique, R. "Exploring multimodal humor detection in Latin-American Spanish with LS-FUNNY." *Status: Accepted to 2025 International Conference on Applied Informatics* (2025).
 
