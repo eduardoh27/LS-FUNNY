@@ -10,11 +10,9 @@ To gain access to the **LS-FUNNY** dataset, please follow the steps below:
 2. **Wait for approval**:
 
    * After your request is received, you will be granted access to the dataset. 
-   
+
 3. **Access the dataset**:
 
-   * Once your request has been approved, you can access the dataset by clicking on the following link:
-
-     * \[LINK] (https://uniandes-my.sharepoint.com/:u:/g/personal/ej_herreraa_uniandes_edu_co/EdHbWuXYVKFGqKBF68SDmu4BB_6kTn1MAvfRHPrVWSqcnA)
+   * Once your request has been approved, you can access the dataset by clicking on the following link: https://uniandes-my.sharepoint.com/:u:/g/personal/ej_herreraa_uniandes_edu_co/EdHbWuXYVKFGqKBF68SDmu4BB_6kTn1MAvfRHPrVWSqcnA
 
 Please note that the dataset is subject to the **Attribution-NonCommercial-NoDerivatives 4.0 International License**. 
